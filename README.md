@@ -1,3 +1,5 @@
+#CVPR 2021
+
 # PyTorch SimCLR: A Simple Framework for Contrastive Learning of Visual Representations
 
 ### Blog post with full documentation: [Exploring SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://sthalles.github.io/simple-self-supervised-learning/)
